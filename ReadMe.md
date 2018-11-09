@@ -1,11 +1,19 @@
-BeWake screensaver
-======================
+# BeWake screensaver
+A screensaver for Haiku which shows different coloured lines in random movement.
+
+![BeWake screenshot](bewake.png)
+
+
+Building
+--------
+
+Simply go into source directory and type ``make``.
 
 
 Installation
 -------------
 
-Simply drag and drop the BeWake file over the link "Drop BeWake here". Open the ScreenSaver Preferences and select BeWake from the listbox.
+Simply copy the screensaver to /system/non-packaged/Screen\ Savers/ and choose it in the Screensavers preferences.
 
 
 Copyright
@@ -19,7 +27,7 @@ Contact
 ----------
 
 Write us at mattia.tristo@gmail.com or gb@biffuz.it
-If you have any suggestion or comment about the code, don't esitate to write us.
+If you have any suggestion or comment about the code, don't hesitate to write us.
 
 
 Special thanks
